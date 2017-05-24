@@ -18,6 +18,12 @@ function createAccount(account) {
     //return account
 }
 
+function getAccount(accountName) {
+    //var accounts use getItemSync
+
+    //iterate over array, return matching account, else undefined
+}
+
 
 
 
